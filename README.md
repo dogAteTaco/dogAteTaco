@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 ### Favorite Books
 - [Annihilation](https://www.goodreads.com/book/show/17934530-annihilation) by Jeff Vandermeer
+- [The Lord of the Rings](https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings?ref=nav_sb_ss_2_17) by J.R.R. Tolkien
 - [Pet Semetary](https://www.goodreads.com/book/show/33124137-pet-sematary) by Stephen King
-- [Metro 2033](https://www.goodreads.com/book/show/33124137-pet-sematary) by Dmitry Glukhovsky
+- [Metro 2033](https://www.goodreads.com/book/show/17274667-metro-2033) by Dmitry Glukhovsky
 - [The Stranger](https://www.goodreads.com/book/show/49552.The_Stranger) by Albert Camus
-- [The Lord of the Rings](https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings?ref=nav_sb_ss_2_17) by J.R.R. Tolkieen
+
