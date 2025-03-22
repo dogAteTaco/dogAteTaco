@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12146843381&unique=1&count=6&width=400&height=300)
 
 ### Favorite Books
-[Annihilation](https://www.goodreads.com/book/show/17934530-annihilation) by Jeff Vandermeer
-[Pet Semetary](https://www.goodreads.com/book/show/33124137-pet-sematary) by Stephen King
-[Metro 2033](https://www.goodreads.com/book/show/33124137-pet-sematary) by Dmitry Glukhovsky
-[The Stranger](https://www.goodreads.com/book/show/49552.The_Stranger) by Albert Camus
-[The Lord of the Rings](https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings?ref=nav_sb_ss_2_17) by J.R.R. Tolkieen
+- [Annihilation](https://www.goodreads.com/book/show/17934530-annihilation) by Jeff Vandermeer
+- [Pet Semetary](https://www.goodreads.com/book/show/33124137-pet-sematary) by Stephen King
+- [Metro 2033](https://www.goodreads.com/book/show/33124137-pet-sematary) by Dmitry Glukhovsky
+- [The Stranger](https://www.goodreads.com/book/show/49552.The_Stranger) by Albert Camus
+- [The Lord of the Rings](https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings?ref=nav_sb_ss_2_17) by J.R.R. Tolkieen
